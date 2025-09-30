@@ -38,7 +38,7 @@ A complementary notebook focused on machine learning modeling using an XGBoost c
 
 ![Gedeo Zone: Boundaries, Waterways, and Cholera Cases (with 10% buffer)](results/gedeo_cholera_map.png)
 
-*Figure: Spatial distribution of cholera cases relative to waterways and administrative boundaries in Gedeo Zone, Ethiopia.*
+*Figure 1: Spatial distribution of cholera cases relative to waterways and administrative boundaries in Gedeo Zone, Ethiopia. This plot can be reproduced in the provided Jupyter notebook.*
 
 ---
 
