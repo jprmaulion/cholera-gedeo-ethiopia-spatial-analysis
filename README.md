@@ -36,12 +36,16 @@ A complementary notebook focused on machine learning modeling using an XGBoost c
 
 ## Graphical Summary
 
-![Gedeo Zone: Boundaries, Waterways, and Cholera Cases (with 10% buffer)](images/gedeo_cholera_map.png)
+![Gedeo Zone: Boundaries, Waterways, and Cholera Cases (with 10% buffer)](results/gedeo_cholera_map.png)
 
-*Figure: Spatial distribution of cholera cases relative to waterways and administrative boundaries in Gedeo Zone.*
+*Figure: Spatial distribution of cholera cases relative to waterways and administrative boundaries in Gedeo Zone, Ethiopia.*
 
 ---
 
 ## License
 
 This project is licensed under the MIT License.
+
+
+## Questions?
+Should you have questions or feedback regarding this repository, feel free to send them in at jprmaulion[at]gmail[dot]com. Cheers!
