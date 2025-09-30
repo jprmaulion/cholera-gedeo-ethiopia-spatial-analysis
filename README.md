@@ -17,7 +17,7 @@ This analysis provides critical insights into environmental and geographic facto
 ## File Structure
 
 - `cholera_eda_spatial_visualization.ipynb` — Notebook containing the full EDA, data processing, and spatial mapping.
-- `images/gedeo_cholera_map.png` — Graphical summary of choropleth map depicting cholera cases, waterways, and boundaries. This plot can be reproduced from the notebook.
+- `images/gedeo_cholera_map.png` — Graphical summary of choropleth map depicting cholera cases, waterways, and boundaries. Relevant details about this plot can be found in the notebook.
 
 ## How to Use
 
